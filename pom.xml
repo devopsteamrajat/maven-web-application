@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.2.0</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
@@ -99,14 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <url>http://35.154.165.171:9980/rajat/repository/facebook-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-snapshot/</url>
-	    </snapshotRepository>
+	      <url></url>http://35.154.165.171:9980/rajat/repository/facebook-snapshot/</snapshotRepository>
 	    
 	</distributionManagement>
 	
